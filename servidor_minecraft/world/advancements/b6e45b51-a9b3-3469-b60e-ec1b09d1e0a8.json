@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-29 17:11:04 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2025-10-29 17:11:04 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-10-29 17:11:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-10-29 17:11:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-10-29 17:11:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-10-29 17:24:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
